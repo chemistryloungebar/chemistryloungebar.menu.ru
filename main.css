@@ -1,16 +1,17 @@
 html {
-    background-image: url(img/menu.jpg);
+    background-image: url();
     background-repeat: repeat;
     background-position: center;
     background-position: top;
+    background-color: black;
     
 }
 
 body{
     height: 100vh;
-    color: black;
+    color: white;
     text-align: center;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display', serif;
     
     
 }
@@ -30,8 +31,9 @@ table {
 }
 
 caption {
+    border: 2px solid yellow;
     font-size: 28px;
-    padding: 5px;
+    padding: 20px;
     margin-bottom: 10px;
     caption-side: top;
 }
@@ -48,8 +50,16 @@ td {
 
 h1 {
     font-size: 34px;
+    margin: 5px;
 }
 
 h2 {
     font-size: 28px;
+}
+
+.yellow {
+    background-color: yellow;
+    color: black;
+    font-size: 50px;
+    margin-bottom: 10px;
 }
