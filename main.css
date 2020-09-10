@@ -4,10 +4,10 @@ html {
 body{
     background-color: LemonChiffon;
     height: 100vh;
-    color: #222;
+    color: black;
     text-align: center;
     font-family: 'Oswald', sans-serif;
-    background-image: ;
+    background-image: url(img/menu.jpg);
     background-repeat: repeat;
     background-position: center;
     height: 100%
