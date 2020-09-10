@@ -1,16 +1,15 @@
 html {
+    background-image: url(img/menu.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    background-position: top;
 }
 
 body{
-    background-color: LemonChiffon;
     height: 100vh;
     color: black;
     text-align: center;
     font-family: 'Oswald', sans-serif;
-    background-image: url(img/menu.jpg);
-    background-repeat: repeat;
-    background-position: center;
-    height: 100%
 }
 
 header {
@@ -35,15 +34,19 @@ caption {
 }
 
 td {
-    font-size: 18px;
+    font-size: 24px;
     padding: 5px;
     padding-bottom: 10px;
 }
 
 .opis {
-    font-size: 16px;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 34px;
 }
 
 h2 {
-    font-size: 26px;
+    font-size: 28px;
 }
