@@ -18,6 +18,9 @@ body{
 
 header {
     margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 main {
@@ -42,7 +45,6 @@ td {
     font-size: 24px;
     padding: 5px;
     padding-bottom: 10px;
-    
 }
 
 .opis {
