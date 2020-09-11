@@ -1,3 +1,5 @@
+
+
 html {
     background-image: url();
     background-repeat: repeat;
@@ -8,6 +10,7 @@ html {
 }
 
 body{
+    max-width: 640px;
     height: 100vh;
     color: white;
     text-align: center;
