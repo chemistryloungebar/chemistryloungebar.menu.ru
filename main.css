@@ -1,12 +1,9 @@
-
-
 html {
-    background-image: url();
-    background-repeat: repeat;
-    background-position: center;
-    background-position: top;
     background-color: black;
-    
+    background-image: url(img/menu.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: top;
 }
 
 body{
@@ -48,7 +45,6 @@ td {
     font-size: 24px;
     padding: 5px;
     padding-bottom: 5px;
-    border-collapse: inherit;
 }
 
 .opis {
