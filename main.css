@@ -10,7 +10,6 @@ html {
 }
 
 body{
-    max-width: 640px;
     height: 100vh;
     color: white;
     text-align: center;
@@ -53,7 +52,7 @@ td {
 }
 
 .opis {
-    font-size: 20px; 
+    font-size: 16px; 
     padding-bottom: 30px;
     font-style: italic;
 }
@@ -75,6 +74,10 @@ h2 {
 .yellow {
     font-size: 50px;
     margin-bottom: 10px;
+}
+
+strong {
+    color: yellow;
 }
 
 .name {
