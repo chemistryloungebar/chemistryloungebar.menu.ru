@@ -45,11 +45,18 @@ td {
     text-align: left;
     font-size: 24px;
     padding: 5px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
+    border-collapse: inherit;
 }
 
 .opis {
-    font-size: 20px;
+    font-size: 20px; 
+    padding-bottom: 30px;
+    font-style: italic;
+}
+
+.margin {
+    
 }
 
 h1 {
@@ -58,6 +65,7 @@ h1 {
 }
 
 h2 {
+    margin-top: 50px;
     font-size: 28px;
 }
 
